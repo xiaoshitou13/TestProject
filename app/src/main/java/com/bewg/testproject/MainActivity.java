@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         //1.0.1版本项目
         //修改了 1.0.1的bug
-        //又修改了1.0.1的新bug
+        //又修改了1.0.1的新bug //添加bug
 
 
 
