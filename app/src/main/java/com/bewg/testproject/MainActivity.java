@@ -25,5 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //1.0.4 新版本完成
+
+        //1212继续开发
     }
 }
